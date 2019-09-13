@@ -1321,7 +1321,7 @@
     <layout>
       <configItem>
         <name>us</name>
-        
+
         <shortDescription>en</shortDescription>
         <description>English (US)</description>
         <languageList>
@@ -1332,7 +1332,7 @@
         <variant>
           <configItem>
             <name>chr</name>
-            
+
             <shortDescription>chr</shortDescription>
             <description>Cherokee</description>
             <languageList>
@@ -1409,7 +1409,7 @@
         <variant>
           <configItem>
             <name>rus</name>
-            
+
             <shortDescription>ru</shortDescription>
             <description>Russian (US, phonetic)</description>
             <languageList>
@@ -1470,7 +1470,7 @@
     <layout>
       <configItem>
         <name>af</name>
-        
+
         <shortDescription>fa</shortDescription>
         <description>Afghani</description>
       </configItem>
@@ -1478,7 +1478,7 @@
         <variant>
           <configItem>
             <name>ps</name>
-            
+
             <shortDescription>ps</shortDescription>
             <description>Pashto</description>
             <languageList>
@@ -1489,7 +1489,7 @@
         <variant>
           <configItem>
             <name>uz</name>
-            
+
             <shortDescription>uz</shortDescription>
             <description>Uzbek (Afghanistan)</description>
             <languageList>
@@ -1500,7 +1500,7 @@
         <variant>
           <configItem>
             <name>olpc-ps</name>
-            
+
             <shortDescription>ps</shortDescription>
             <description>Pashto (Afghanistan, OLPC)</description>
             <languageList>
@@ -1511,7 +1511,7 @@
         <variant>
           <configItem>
             <name>fa-olpc</name>
-            
+
             <shortDescription>fa</shortDescription>
             <description>Persian (Afghanistan, Dari OLPC)</description>
           </configItem>
@@ -1519,7 +1519,7 @@
         <variant>
           <configItem>
             <name>uz-olpc</name>
-            
+
             <shortDescription>uz</shortDescription>
             <description>Uzbek (Afghanistan, OLPC)</description>
             <languageList>
@@ -1532,7 +1532,7 @@
     <layout>
       <configItem>
         <name>ara</name>
-        
+
         <shortDescription>ar</shortDescription>
         <description>Arabic</description>
         <countryList>
@@ -1614,7 +1614,7 @@
     <layout>
       <configItem>
         <name>al</name>
-        
+
         <shortDescription>sq</shortDescription>
         <description>Albanian</description>
         <languageList>
@@ -1633,7 +1633,7 @@
     <layout>
       <configItem>
         <name>am</name>
-        
+
         <shortDescription>hy</shortDescription>
         <description>Armenian</description>
         <languageList>
@@ -1676,7 +1676,7 @@
     <layout>
       <configItem>
         <name>at</name>
-        
+
         <shortDescription>de</shortDescription>
         <description>German (Austria)</description>
         <languageList>
@@ -1707,7 +1707,7 @@
     <layout>
       <configItem>
         <name>au</name>
-        
+
         <shortDescription>en</shortDescription>
         <description>English (Australian)</description>
         <languageList>
@@ -1718,7 +1718,7 @@
     <layout>
       <configItem>
         <name>az</name>
-        
+
         <shortDescription>az</shortDescription>
         <description>Azerbaijani</description>
         <languageList>
@@ -1737,7 +1737,7 @@
     <layout>
       <configItem>
         <name>by</name>
-        
+
         <shortDescription>by</shortDescription>
         <description>Belarusian</description>
         <languageList>
@@ -1762,7 +1762,7 @@
     <layout>
       <configItem>
         <name>be</name>
-        
+
         <shortDescription>be</shortDescription>
         <description>Belgian</description>
         <languageList>
@@ -1819,12 +1819,12 @@
     <layout>
       <configItem>
         <name>bd</name>
-        
+
         <shortDescription>bn</shortDescription>
         <description>Bangla</description>
         <languageList>
           <iso639Id>ben</iso639Id>
-          
+
           <iso639Id>sat</iso639Id>
         </languageList>
       </configItem>
@@ -1840,7 +1840,7 @@
     <layout>
       <configItem>
         <name>in</name>
-        
+
         <shortDescription>in</shortDescription>
         <description>Indian</description>
       </configItem>
@@ -1848,12 +1848,12 @@
         <variant>
           <configItem>
             <name>ben</name>
-            
+
             <shortDescription>bn</shortDescription>
             <description>Bangla (India)</description>
             <languageList>
               <iso639Id>ben</iso639Id>
-              
+
               <iso639Id>sat</iso639Id>
             </languageList>
           </configItem>
@@ -1861,12 +1861,12 @@
         <variant>
           <configItem>
             <name>ben_probhat</name>
-            
+
             <shortDescription>bn</shortDescription>
             <description>Bangla (India, Probhat)</description>
             <languageList>
               <iso639Id>ben</iso639Id>
-              
+
               <iso639Id>sat</iso639Id>
             </languageList>
           </configItem>
@@ -1877,7 +1877,7 @@
             <description>Bangla (India, Baishakhi)</description>
             <languageList>
               <iso639Id>ben</iso639Id>
-              
+
               <iso639Id>sat</iso639Id>
             </languageList>
           </configItem>
@@ -1888,7 +1888,7 @@
             <description>Bangla (India, Bornona)</description>
             <languageList>
               <iso639Id>ben</iso639Id>
-              
+
               <iso639Id>sat</iso639Id>
             </languageList>
           </configItem>
@@ -1899,7 +1899,7 @@
             <description>Bangla (India, Uni Gitanjali)</description>
             <languageList>
               <iso639Id>ben</iso639Id>
-              
+
               <iso639Id>sat</iso639Id>
             </languageList>
           </configItem>
@@ -1910,7 +1910,7 @@
             <description>Bangla (India, Baishakhi Inscript)</description>
             <languageList>
               <iso639Id>ben</iso639Id>
-              
+
               <iso639Id>sat</iso639Id>
             </languageList>
           </configItem>
@@ -1927,7 +1927,7 @@
         <variant>
           <configItem>
             <name>guj</name>
-            
+
             <shortDescription>gu</shortDescription>
             <description>Gujarati</description>
             <languageList>
@@ -1938,7 +1938,7 @@
         <variant>
           <configItem>
             <name>guru</name>
-            
+
             <shortDescription>pa</shortDescription>
             <description>Punjabi (Gurmukhi)</description>
             <languageList>
@@ -1949,7 +1949,7 @@
         <variant>
           <configItem>
             <name>jhelum</name>
-            
+
             <shortDescription>pa</shortDescription>
             <description>Punjabi (Gurmukhi Jhelum)</description>
             <languageList>
@@ -1960,7 +1960,7 @@
         <variant>
           <configItem>
             <name>kan</name>
-            
+
             <shortDescription>kn</shortDescription>
             <description>Kannada</description>
             <languageList>
@@ -1971,7 +1971,7 @@
         <variant>
           <configItem>
             <name>kan-kagapa</name>
-            
+
             <shortDescription>kn</shortDescription>
             <description>Kannada (KaGaPa phonetic)</description>
             <languageList>
@@ -1982,7 +1982,7 @@
         <variant>
           <configItem>
             <name>mal</name>
-            
+
             <shortDescription>ml</shortDescription>
             <description>Malayalam</description>
             <languageList>
@@ -1993,7 +1993,7 @@
         <variant>
           <configItem>
             <name>mal_lalitha</name>
-            
+
             <shortDescription>ml</shortDescription>
             <description>Malayalam (Lalitha)</description>
             <languageList>
@@ -2004,7 +2004,7 @@
         <variant>
           <configItem>
             <name>mal_enhanced</name>
-            
+
             <shortDescription>ml</shortDescription>
             <description>Malayalam (enhanced Inscript, with rupee)</description>
             <languageList>
@@ -2015,12 +2015,12 @@
          <variant>
            <configItem>
             <name>ori</name>
-            
+
             <shortDescription>or</shortDescription>
             <description>Oriya</description>
             <languageList>
               <iso639Id>ori</iso639Id>
-              
+
               <iso639Id>sat</iso639Id>
             </languageList>
           </configItem>
@@ -2028,11 +2028,11 @@
         <variant>
            <configItem>
             <name>olck</name>
-            
+
             <shortDescription>sat</shortDescription>
             <description>Ol Chiki</description>
             <languageList>
-              
+
               <iso639Id>sat</iso639Id>
             </languageList>
           </configItem>
@@ -2040,7 +2040,7 @@
         <variant>
           <configItem>
             <name>tam_unicode</name>
-            
+
             <shortDescription>ta</shortDescription>
             <description>Tamil (Unicode)</description>
             <languageList>
@@ -2051,7 +2051,7 @@
         <variant>
           <configItem>
             <name>tam_keyboard_with_numerals</name>
-            
+
             <shortDescription>ta</shortDescription>
             <description>Tamil (keyboard with numerals)</description>
             <languageList>
@@ -2062,7 +2062,7 @@
         <variant>
           <configItem>
             <name>tam_TAB</name>
-            
+
             <shortDescription>ta</shortDescription>
             <description>Tamil (TAB typewriter)</description>
             <languageList>
@@ -2073,7 +2073,7 @@
         <variant>
           <configItem>
             <name>tam_TSCII</name>
-            
+
             <shortDescription>ta</shortDescription>
             <description>Tamil (TSCII typewriter)</description>
             <languageList>
@@ -2084,7 +2084,7 @@
         <variant>
           <configItem>
             <name>tam</name>
-            
+
             <shortDescription>ta</shortDescription>
             <description>Tamil</description>
             <languageList>
@@ -2095,7 +2095,7 @@
         <variant>
           <configItem>
             <name>tel</name>
-            
+
             <shortDescription>te</shortDescription>
             <description>Telugu</description>
             <languageList>
@@ -2106,7 +2106,7 @@
         <variant>
           <configItem>
             <name>tel-kagapa</name>
-            
+
             <shortDescription>te</shortDescription>
             <description>Telugu (KaGaPa phonetic)</description>
             <languageList>
@@ -2117,7 +2117,7 @@
         <variant>
           <configItem>
             <name>tel-sarala</name>
-            
+
             <shortDescription>te</shortDescription>
             <description>Telugu (Sarala)</description>
             <languageList>
@@ -2128,7 +2128,7 @@
         <variant>
           <configItem>
             <name>urd-phonetic</name>
-            
+
             <shortDescription>ur</shortDescription>
             <description>Urdu (phonetic)</description>
             <languageList>
@@ -2139,7 +2139,7 @@
         <variant>
           <configItem>
             <name>urd-phonetic3</name>
-            
+
             <shortDescription>ur</shortDescription>
             <description>Urdu (alt. phonetic)</description>
             <languageList>
@@ -2150,7 +2150,7 @@
         <variant>
           <configItem>
             <name>urd-winkeys</name>
-            
+
             <shortDescription>ur</shortDescription>
             <description>Urdu (Win keys)</description>
             <languageList>
@@ -2161,7 +2161,7 @@
         <variant>
           <configItem>
             <name>bolnagri</name>
-            
+
             <shortDescription>hi</shortDescription>
             <description>Hindi (Bolnagri)</description>
             <languageList>
@@ -2172,7 +2172,7 @@
         <variant>
           <configItem>
             <name>hin-wx</name>
-            
+
             <shortDescription>hi</shortDescription>
             <description>Hindi (Wx)</description>
             <languageList>
@@ -2183,7 +2183,7 @@
         <variant>
           <configItem>
             <name>hin-kagapa</name>
-            
+
             <shortDescription>hi</shortDescription>
             <description>Hindi (KaGaPa phonetic)</description>
             <languageList>
@@ -2194,7 +2194,7 @@
         <variant>
           <configItem>
             <name>san-kagapa</name>
-            
+
             <shortDescription>sa</shortDescription>
             <description>Sanskrit (KaGaPa phonetic)</description>
             <languageList>
@@ -2205,7 +2205,7 @@
         <variant>
           <configItem>
             <name>mar-kagapa</name>
-            
+
             <shortDescription>mr</shortDescription>
             <description>Marathi (KaGaPa phonetic)</description>
             <languageList>
@@ -2216,7 +2216,7 @@
         <variant>
           <configItem>
             <name>eng</name>
-            
+
             <shortDescription>en</shortDescription>
             <description>English (India, with rupee)</description>
             <languageList>
@@ -2229,7 +2229,7 @@
     <layout>
       <configItem>
         <name>ba</name>
-        
+
         <shortDescription>bs</shortDescription>
         <description>Bosnian</description>
         <languageList>
@@ -2266,7 +2266,7 @@
     <layout>
       <configItem>
         <name>br</name>
-        
+
         <shortDescription>pt</shortDescription>
         <description>Portuguese (Brazil)</description>
         <languageList>
@@ -2318,7 +2318,7 @@
     <layout>
       <configItem>
         <name>bg</name>
-        
+
         <shortDescription>bg</shortDescription>
         <description>Bulgarian</description>
         <languageList>
@@ -2372,7 +2372,7 @@
     <layout>
       <configItem>
         <name>ma</name>
-        
+
         <shortDescription>ar</shortDescription>
         <description>Arabic (Morocco)</description>
       </configItem>
@@ -2380,7 +2380,7 @@
         <variant>
           <configItem>
             <name>french</name>
-            
+
             <shortDescription>fr</shortDescription>
             <description>French (Morocco)</description>
             <languageList>
@@ -2391,7 +2391,7 @@
         <variant>
           <configItem>
             <name>tifinagh</name>
-            
+
             <shortDescription>ber</shortDescription>
             <description>Berber (Morocco, Tifinagh)</description>
             <languageList>
@@ -2402,7 +2402,7 @@
         <variant>
           <configItem>
             <name>tifinagh-alt</name>
-            
+
             <shortDescription>ber</shortDescription>
             <description>Berber (Morocco, Tifinagh alt.)</description>
             <languageList>
@@ -2413,7 +2413,7 @@
         <variant>
           <configItem>
             <name>tifinagh-alt-phonetic</name>
-            
+
             <shortDescription>ber</shortDescription>
             <description>Berber (Morocco, Tifinagh alt. phonetic)</description>
             <languageList>
@@ -2424,7 +2424,7 @@
         <variant>
           <configItem>
             <name>tifinagh-extended</name>
-            
+
             <shortDescription>ber</shortDescription>
             <description>Berber (Morocco, Tifinagh extended)</description>
             <languageList>
@@ -2435,7 +2435,7 @@
         <variant>
           <configItem>
             <name>tifinagh-phonetic</name>
-            
+
             <shortDescription>ber</shortDescription>
             <description>Berber (Morocco, Tifinagh phonetic)</description>
             <languageList>
@@ -2446,7 +2446,7 @@
         <variant>
           <configItem>
             <name>tifinagh-extended-phonetic</name>
-            
+
             <shortDescription>ber</shortDescription>
             <description>Berber (Morocco, Tifinagh extended phonetic)</description>
             <languageList>
@@ -2459,7 +2459,7 @@
     <layout>
       <configItem>
         <name>cm</name>
-        
+
         <shortDescription>cm</shortDescription>
         <description>English (Cameroon)</description>
         <languageList>
@@ -2567,7 +2567,7 @@
     <layout>
       <configItem>
         <name>mm</name>
-        
+
         <shortDescription>my</shortDescription>
         <description>Burmese</description>
         <languageList>
@@ -2579,7 +2579,7 @@
     <layout>
       <configItem>
         <name>ca</name>
-        
+
         <shortDescription>fr</shortDescription>
         <description>French (Canada)</description>
         <languageList>
@@ -2590,7 +2590,7 @@
         <variant>
           <configItem>
             <name>fr-dvorak</name>
-            
+
             <shortDescription>fr</shortDescription>
             <description>French (Canada, Dvorak)</description>
           </configItem>
@@ -2598,7 +2598,7 @@
         <variant>
           <configItem>
             <name>fr-legacy</name>
-            
+
             <shortDescription>fr</shortDescription>
             <description>French (Canada, legacy)</description>
           </configItem>
@@ -2624,7 +2624,7 @@
         <variant>
           <configItem>
             <name>ike</name>
-            
+
             <shortDescription>ike</shortDescription>
             <description>Inuktitut</description>
             <languageList>
@@ -2635,7 +2635,7 @@
         <variant>
           <configItem>
             <name>eng</name>
-            
+
             <shortDescription>en</shortDescription>
             <description>English (Canada)</description>
             <languageList>
@@ -2648,7 +2648,7 @@
     <layout>
       <configItem>
         <name>cd</name>
-        
+
         <shortDescription>fr</shortDescription>
         <description>French (Democratic Republic of the Congo)</description>
         <languageList>
@@ -2660,7 +2660,7 @@
     <layout>
       <configItem>
         <name>cn</name>
-        
+
         <shortDescription>zh</shortDescription>
         <description>Chinese</description>
         <languageList>
@@ -2701,7 +2701,7 @@
     <layout>
       <configItem>
         <name>hr</name>
-        
+
         <shortDescription>hr</shortDescription>
         <description>Croatian</description>
         <languageList>
@@ -2738,7 +2738,7 @@
     <layout>
       <configItem>
         <name>cz</name>
-        
+
         <shortDescription>cs</shortDescription>
         <description>Czech</description>
         <languageList>
@@ -2779,7 +2779,7 @@
         <variant>
           <configItem>
             <name>rus</name>
-            
+
             <shortDescription>ru</shortDescription>
             <description>Russian (Czech, phonetic)</description>
             <languageList>
@@ -2792,7 +2792,7 @@
     <layout>
       <configItem>
         <name>dk</name>
-        
+
         <shortDescription>da</shortDescription>
         <description>Danish</description>
         <languageList>
@@ -2835,7 +2835,7 @@
     <layout>
       <configItem>
         <name>nl</name>
-        
+
         <shortDescription>nl</shortDescription>
         <description>Dutch</description>
         <languageList>
@@ -2866,7 +2866,7 @@
     <layout>
       <configItem>
         <name>bt</name>
-        
+
         <shortDescription>dz</shortDescription>
         <description>Dzongkha</description>
         <languageList>
@@ -2877,7 +2877,7 @@
     <layout>
       <configItem>
         <name>ee</name>
-        
+
         <shortDescription>et</shortDescription>
         <description>Estonian</description>
         <languageList>
@@ -2908,7 +2908,7 @@
     <layout>
       <configItem>
         <name>ir</name>
-        
+
         <shortDescription>fa</shortDescription>
         <description>Persian</description>
         <languageList>
@@ -2925,7 +2925,7 @@
         <variant>
           <configItem>
             <name>ku</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Iran, Latin Q)</description>
             <languageList>
@@ -2936,7 +2936,7 @@
         <variant>
           <configItem>
             <name>ku_f</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Iran, F)</description>
             <languageList>
@@ -2947,7 +2947,7 @@
         <variant>
           <configItem>
             <name>ku_alt</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Iran, Latin Alt-Q)</description>
             <languageList>
@@ -2958,7 +2958,7 @@
         <variant>
           <configItem>
             <name>ku_ara</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Iran, Arabic-Latin)</description>
             <languageList>
@@ -2971,7 +2971,7 @@
     <layout>
       <configItem>
         <name>iq</name>
-        
+
         <shortDescription>ar</shortDescription>
         <description>Iraqi</description>
         <languageList>
@@ -2983,7 +2983,7 @@
         <variant>
           <configItem>
             <name>ku</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Iraq, Latin Q)</description>
             <languageList>
@@ -2994,7 +2994,7 @@
         <variant>
           <configItem>
             <name>ku_f</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Iraq, F)</description>
             <languageList>
@@ -3005,7 +3005,7 @@
         <variant>
           <configItem>
             <name>ku_alt</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Iraq, Latin Alt-Q)</description>
             <languageList>
@@ -3016,7 +3016,7 @@
         <variant>
           <configItem>
             <name>ku_ara</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Iraq, Arabic-Latin)</description>
             <languageList>
@@ -3029,7 +3029,7 @@
     <layout>
       <configItem>
         <name>fo</name>
-        
+
         <shortDescription>fo</shortDescription>
         <description>Faroese</description>
         <languageList>
@@ -3048,7 +3048,7 @@
     <layout>
       <configItem>
         <name>fi</name>
-        
+
         <shortDescription>fi</shortDescription>
         <description>Finnish</description>
         <languageList>
@@ -3094,7 +3094,7 @@
     <layout>
       <configItem>
         <name>fr</name>
-        
+
         <shortDescription>fr</shortDescription>
         <description>French</description>
         <languageList>
@@ -3215,7 +3215,7 @@
     <layout>
       <configItem>
         <name>gh</name>
-        
+
         <shortDescription>en</shortDescription>
         <description>English (Ghana)</description>
         <languageList>
@@ -3232,7 +3232,7 @@
         <variant>
           <configItem>
             <name>akan</name>
-            
+
             <shortDescription>ak</shortDescription>
             <description>Akan</description>
             <languageList>
@@ -3243,7 +3243,7 @@
         <variant>
           <configItem>
             <name>ewe</name>
-            
+
             <shortDescription>ee</shortDescription>
             <description>Ewe</description>
             <languageList>
@@ -3254,7 +3254,7 @@
         <variant>
           <configItem>
             <name>fula</name>
-            
+
             <shortDescription>ff</shortDescription>
             <description>Fula</description>
             <languageList>
@@ -3265,7 +3265,7 @@
         <variant>
           <configItem>
             <name>ga</name>
-            
+
             <shortDescription>gaa</shortDescription>
             <description>Ga</description>
             <languageList>
@@ -3276,7 +3276,7 @@
         <variant>
           <configItem>
             <name>hausa</name>
-            
+
             <shortDescription>ha</shortDescription>
             <description>Hausa (Ghana)</description>
             <languageList>
@@ -3287,7 +3287,7 @@
         <variant>
           <configItem>
             <name>avn</name>
-            
+
             <shortDescription>avn</shortDescription>
             <description>Avatime</description>
             <languageList>
@@ -3306,7 +3306,7 @@
     <layout>
       <configItem>
         <name>gn</name>
-        
+
         <shortDescription>fr</shortDescription>
         <description>French (Guinea)</description>
         <languageList>
@@ -3318,7 +3318,7 @@
     <layout>
       <configItem>
         <name>ge</name>
-        
+
         <shortDescription>ka</shortDescription>
         <description>Georgian</description>
         <languageList>
@@ -3341,7 +3341,7 @@
         <variant>
           <configItem>
             <name>ru</name>
-            
+
             <shortDescription>ru</shortDescription>
             <description>Russian (Georgia)</description>
             <languageList>
@@ -3363,7 +3363,7 @@
     <layout>
       <configItem>
         <name>de</name>
-        
+
         <shortDescription>de</shortDescription>
         <description>German</description>
         <languageList>
@@ -3479,7 +3479,7 @@
         <variant>
           <configItem>
             <name>ru</name>
-            
+
             <shortDescription>ru</shortDescription>
             <description>Russian (Germany, phonetic)</description>
             <languageList>
@@ -3498,7 +3498,7 @@
     <layout>
       <configItem>
         <name>gr</name>
-        
+
         <shortDescription>gr</shortDescription>
         <description>Greek</description>
         <languageList>
@@ -3535,7 +3535,7 @@
     <layout>
       <configItem>
         <name>hu</name>
-        
+
         <shortDescription>hu</shortDescription>
         <description>Hungarian</description>
         <languageList>
@@ -3662,7 +3662,7 @@
     <layout>
       <configItem>
         <name>is</name>
-        
+
         <shortDescription>is</shortDescription>
         <description>Icelandic</description>
         <languageList>
@@ -3705,7 +3705,7 @@
     <layout>
       <configItem>
         <name>il</name>
-        
+
         <shortDescription>he</shortDescription>
         <description>Hebrew</description>
         <languageList>
@@ -3736,7 +3736,7 @@
     <layout>
       <configItem>
         <name>it</name>
-        
+
         <shortDescription>it</shortDescription>
         <description>Italian</description>
         <languageList>
@@ -3814,7 +3814,7 @@
     <layout>
       <configItem>
         <name>jp</name>
-        
+
         <shortDescription>ja</shortDescription>
         <description>Japanese</description>
         <languageList>
@@ -3857,7 +3857,7 @@
     <layout>
       <configItem>
         <name>kg</name>
-        
+
         <shortDescription>ki</shortDescription>
         <description>Kyrgyz</description>
         <languageList>
@@ -3876,7 +3876,7 @@
     <layout>
       <configItem>
         <name>kh</name>
-        
+
         <shortDescription>km</shortDescription>
         <description>Khmer (Cambodia)</description>
         <languageList>
@@ -3888,7 +3888,7 @@
     <layout>
       <configItem>
         <name>kz</name>
-        
+
         <shortDescription>kk</shortDescription>
         <description>Kazakh</description>
         <languageList>
@@ -3899,7 +3899,7 @@
         <variant>
           <configItem>
             <name>ruskaz</name>
-            
+
             <shortDescription>ru</shortDescription>
             <description>Russian (Kazakhstan, with Kazakh)</description>
             <languageList>
@@ -3932,7 +3932,7 @@
     <layout>
       <configItem>
         <name>la</name>
-        
+
         <shortDescription>lo</shortDescription>
         <description>Lao</description>
         <languageList>
@@ -3954,7 +3954,7 @@
     <layout>
       <configItem>
         <name>latam</name>
-        
+
         <shortDescription>es</shortDescription>
         <description>Spanish (Latin American)</description>
         <countryList>
@@ -4014,7 +4014,7 @@
     <layout>
       <configItem>
         <name>lt</name>
-        
+
         <shortDescription>lt</shortDescription>
         <description>Lithuanian</description>
         <languageList>
@@ -4057,7 +4057,7 @@
     <layout>
       <configItem>
         <name>lv</name>
-        
+
         <shortDescription>lv</shortDescription>
         <description>Latvian</description>
         <languageList>
@@ -4106,7 +4106,7 @@
     <layout>
       <configItem>
         <name>mao</name>
-        
+
         <shortDescription>mi</shortDescription>
         <description>Maori</description>
         <languageList>
@@ -4118,7 +4118,7 @@
     <layout>
       <configItem>
         <name>me</name>
-        
+
         <shortDescription>sr</shortDescription>
         <description>Montenegrin</description>
         <languageList>
@@ -4173,7 +4173,7 @@
     <layout>
       <configItem>
         <name>mk</name>
-        
+
         <shortDescription>mk</shortDescription>
         <description>Macedonian</description>
         <languageList>
@@ -4192,7 +4192,7 @@
     <layout>
       <configItem>
         <name>mt</name>
-        
+
         <shortDescription>mt</shortDescription>
         <description>Maltese</description>
         <languageList>
@@ -4211,7 +4211,7 @@
     <layout>
       <configItem>
         <name>mn</name>
-        
+
         <shortDescription>mn</shortDescription>
         <description>Mongolian</description>
         <languageList>
@@ -4223,7 +4223,7 @@
     <layout>
       <configItem>
         <name>no</name>
-        
+
         <shortDescription>no</shortDescription>
         <description>Norwegian</description>
         <languageList>
@@ -4292,7 +4292,7 @@
     <layout>
       <configItem>
         <name>pl</name>
-        
+
         <shortDescription>pl</shortDescription>
         <description>Polish</description>
         <languageList>
@@ -4351,7 +4351,7 @@
         <variant>
           <configItem>
             <name>ru_phonetic_dvorak</name>
-            
+
             <shortDescription>ru</shortDescription>
             <description>Russian (Poland, phonetic Dvorak)</description>
             <languageList>
@@ -4365,12 +4365,18 @@
             <description>Polish (programmer Dvorak)</description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>azerty</name>
+            <description>Polish (AZERTY)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
       <configItem>
         <name>pt</name>
-        
+
         <shortDescription>pt</shortDescription>
         <description>Portuguese</description>
         <languageList>
@@ -4434,7 +4440,7 @@
     <layout>
       <configItem>
         <name>ro</name>
-        
+
         <shortDescription>ro</shortDescription>
         <description>Romanian</description>
         <languageList>
@@ -4471,7 +4477,7 @@
     <layout>
       <configItem>
         <name>ru</name>
-        
+
         <shortDescription>ru</shortDescription>
         <description>Russian</description>
         <languageList>
@@ -4653,7 +4659,7 @@
     <layout>
       <configItem>
         <name>rs</name>
-        
+
         <shortDescription>sr</shortDescription>
         <description>Serbian</description>
         <languageList>
@@ -4717,7 +4723,7 @@
     <layout>
       <configItem>
         <name>si</name>
-        
+
         <shortDescription>sl</shortDescription>
         <description>Slovenian</description>
         <languageList>
@@ -4742,7 +4748,7 @@
     <layout>
       <configItem>
         <name>sk</name>
-        
+
         <shortDescription>sk</shortDescription>
         <description>Slovak</description>
         <languageList>
@@ -4773,7 +4779,7 @@
     <layout>
       <configItem>
         <name>es</name>
-        
+
         <shortDescription>es</shortDescription>
         <description>Spanish</description>
         <languageList>
@@ -4842,7 +4848,7 @@
     <layout>
       <configItem>
         <name>se</name>
-        
+
         <shortDescription>sv</shortDescription>
         <description>Swedish</description>
         <languageList>
@@ -4865,7 +4871,7 @@
         <variant>
           <configItem>
             <name>rus</name>
-            
+
             <shortDescription>ru</shortDescription>
             <description>Russian (Sweden, phonetic)</description>
             <languageList>
@@ -4876,7 +4882,7 @@
         <variant>
           <configItem>
             <name>rus_nodeadkeys</name>
-            
+
             <shortDescription>ru</shortDescription>
             <description>Russian (Sweden, phonetic, no dead keys)</description>
             <languageList>
@@ -4925,7 +4931,7 @@
     <layout>
       <configItem>
         <name>ch</name>
-        
+
         <shortDescription>de</shortDescription>
         <description>German (Switzerland)</description>
         <languageList>
@@ -4943,7 +4949,7 @@
         <variant>
           <configItem>
             <name>de_nodeadkeys</name>
-            
+
             <shortDescription>de</shortDescription>
             <description>German (Switzerland, no dead keys)</description>
           </configItem>
@@ -4951,7 +4957,7 @@
         <variant>
           <configItem>
             <name>de_sundeadkeys</name>
-            
+
             <shortDescription>de</shortDescription>
             <description>German (Switzerland, with Sun dead keys)</description>
           </configItem>
@@ -4959,7 +4965,7 @@
         <variant>
           <configItem>
             <name>fr</name>
-            
+
             <shortDescription>fr</shortDescription>
             <description>French (Switzerland)</description>
             <languageList>
@@ -4970,7 +4976,7 @@
         <variant>
           <configItem>
             <name>fr_nodeadkeys</name>
-            
+
             <shortDescription>fr</shortDescription>
             <description>French (Switzerland, no dead keys)</description>
             <languageList>
@@ -4981,7 +4987,7 @@
         <variant>
           <configItem>
             <name>fr_sundeadkeys</name>
-            
+
             <shortDescription>fr</shortDescription>
             <description>French (Switzerland, with Sun dead keys)</description>
             <languageList>
@@ -4992,7 +4998,7 @@
         <variant>
           <configItem>
             <name>fr_mac</name>
-            
+
             <shortDescription>fr</shortDescription>
             <description>French (Switzerland, Macintosh)</description>
             <languageList>
@@ -5003,7 +5009,7 @@
         <variant>
           <configItem>
             <name>de_mac</name>
-            
+
             <shortDescription>de</shortDescription>
             <description>German (Switzerland, Macintosh)</description>
           </configItem>
@@ -5013,7 +5019,7 @@
     <layout>
       <configItem>
         <name>sy</name>
-        
+
         <shortDescription>ar</shortDescription>
         <description>Arabic (Syria)</description>
         <languageList>
@@ -5024,7 +5030,7 @@
         <variant>
           <configItem>
             <name>syc</name>
-            
+
             <shortDescription>syc</shortDescription>
             <description>Syriac</description>
           </configItem>
@@ -5032,7 +5038,7 @@
         <variant>
           <configItem>
             <name>syc_phonetic</name>
-            
+
             <shortDescription>syc</shortDescription>
             <description>Syriac (phonetic)</description>
           </configItem>
@@ -5040,7 +5046,7 @@
         <variant>
           <configItem>
             <name>ku</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Syria, Latin Q)</description>
             <languageList>
@@ -5051,7 +5057,7 @@
         <variant>
           <configItem>
             <name>ku_f</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Syria, F)</description>
             <languageList>
@@ -5062,7 +5068,7 @@
         <variant>
           <configItem>
             <name>ku_alt</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Syria, Latin Alt-Q)</description>
             <languageList>
@@ -5075,7 +5081,7 @@
     <layout>
       <configItem>
         <name>tj</name>
-        
+
         <shortDescription>tg</shortDescription>
         <description>Tajik</description>
         <languageList>
@@ -5094,7 +5100,7 @@
     <layout>
       <configItem>
         <name>lk</name>
-        
+
         <shortDescription>si</shortDescription>
         <description>Sinhala (phonetic)</description>
         <languageList>
@@ -5105,7 +5111,7 @@
         <variant>
           <configItem>
             <name>tam_unicode</name>
-            
+
             <shortDescription>ta</shortDescription>
             <description>Tamil (Sri Lanka, Unicode)</description>
             <languageList>
@@ -5134,7 +5140,7 @@
     <layout>
       <configItem>
         <name>th</name>
-        
+
         <shortDescription>th</shortDescription>
         <description>Thai</description>
         <languageList>
@@ -5159,7 +5165,7 @@
     <layout>
       <configItem>
         <name>tr</name>
-        
+
         <shortDescription>tr</shortDescription>
         <description>Turkish</description>
         <languageList>
@@ -5188,7 +5194,7 @@
         <variant>
           <configItem>
             <name>ku</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Turkey, Latin Q)</description>
             <languageList>
@@ -5199,7 +5205,7 @@
         <variant>
           <configItem>
             <name>ku_f</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Turkey, F)</description>
             <languageList>
@@ -5210,7 +5216,7 @@
         <variant>
           <configItem>
             <name>ku_alt</name>
-            
+
             <shortDescription>ku</shortDescription>
             <description>Kurdish (Turkey, Latin Alt-Q)</description>
             <languageList>
@@ -5227,7 +5233,7 @@
         <variant>
           <configItem>
             <name>crh</name>
-            
+
             <shortDescription>crh</shortDescription>
             <description>Crimean Tatar (Turkish Q)</description>
             <languageList>
@@ -5238,7 +5244,7 @@
         <variant>
           <configItem>
             <name>crh_f</name>
-            
+
             <shortDescription>crh</shortDescription>
             <description>Crimean Tatar (Turkish F)</description>
             <languageList>
@@ -5249,7 +5255,7 @@
         <variant>
           <configItem>
             <name>crh_alt</name>
-            
+
             <shortDescription>crh</shortDescription>
             <description>Crimean Tatar (Turkish Alt-Q)</description>
             <languageList>
@@ -5262,7 +5268,7 @@
     <layout>
       <configItem>
         <name>tw</name>
-        
+
         <shortDescription>zh</shortDescription>
         <description>Taiwanese</description>
         <languageList>
@@ -5297,7 +5303,7 @@
         <variant>
           <configItem>
             <name>saisiyat</name>
-            
+
             <shortDescription>xsy</shortDescription>
             <description>Saisiyat (Taiwan)</description>
             <languageList>
@@ -5310,7 +5316,7 @@
     <layout>
       <configItem>
         <name>ua</name>
-        
+
         <shortDescription>uk</shortDescription>
         <description>Ukrainian</description>
         <languageList>
@@ -5365,7 +5371,7 @@
     <layout>
       <configItem>
         <name>gb</name>
-        
+
         <shortDescription>en</shortDescription>
         <description>English (UK)</description>
         <languageList>
@@ -5420,7 +5426,7 @@
     <layout>
       <configItem>
         <name>uz</name>
-        
+
         <shortDescription>uz</shortDescription>
         <description>Uzbek</description>
         <languageList>
@@ -5439,7 +5445,7 @@
     <layout>
       <configItem>
         <name>vn</name>
-        
+
         <shortDescription>vi</shortDescription>
         <description>Vietnamese</description>
         <languageList>
@@ -5451,7 +5457,7 @@
     <layout>
       <configItem>
         <name>kr</name>
-        
+
         <shortDescription>ko</shortDescription>
         <description>Korean</description>
         <languageList>
@@ -5470,7 +5476,7 @@
     <layout>
       <configItem>
         <name>nec_vndr/jp</name>
-        
+
         <shortDescription>ja</shortDescription>
         <description>Japanese (PC-98)</description>
         <countryList>
@@ -5485,7 +5491,7 @@
     <layout>
       <configItem>
         <name>ie</name>
-        
+
         <shortDescription>ie</shortDescription>
         <description>Irish</description>
         <languageList>
@@ -5531,7 +5537,7 @@
     <layout>
       <configItem>
         <name>pk</name>
-        
+
         <shortDescription>ur</shortDescription>
         <description>Urdu (Pakistan)</description>
         <languageList>
@@ -5564,7 +5570,7 @@
         <variant>
           <configItem>
             <name>snd</name>
-            
+
             <shortDescription>sd</shortDescription>
             <description>Sindhi</description>
             <languageList>
@@ -5577,7 +5583,7 @@
     <layout>
       <configItem>
         <name>mv</name>
-        
+
         <shortDescription>dv</shortDescription>
         <description>Dhivehi</description>
         <languageList>
@@ -5589,7 +5595,7 @@
     <layout>
       <configItem>
         <name>za</name>
-        
+
         <shortDescription>en</shortDescription>
         <description>English (South Africa)</description>
         <languageList>
@@ -5600,7 +5606,7 @@
     <layout>
       <configItem>
         <name>epo</name>
-        
+
         <shortDescription>eo</shortDescription>
         <description>Esperanto</description>
         <languageList>
@@ -5619,12 +5625,12 @@
     <layout>
       <configItem>
         <name>np</name>
-        
+
         <shortDescription>ne</shortDescription>
         <description>Nepali</description>
         <languageList>
           <iso639Id>nep</iso639Id>
-          
+
           <iso639Id>sat</iso639Id>
         </languageList>
       </configItem>
@@ -5632,7 +5638,7 @@
     <layout>
       <configItem>
         <name>ng</name>
-        
+
         <shortDescription>en</shortDescription>
         <description>English (Nigeria)</description>
         <languageList>
@@ -5643,7 +5649,7 @@
         <variant>
           <configItem>
             <name>igbo</name>
-            
+
             <shortDescription>ig</shortDescription>
             <description>Igbo</description>
             <languageList>
@@ -5654,7 +5660,7 @@
         <variant>
           <configItem>
             <name>yoruba</name>
-            
+
             <shortDescription>yo</shortDescription>
             <description>Yoruba</description>
             <languageList>
@@ -5665,7 +5671,7 @@
         <variant>
           <configItem>
             <name>hausa</name>
-            
+
             <shortDescription>ha</shortDescription>
             <description>Hausa (Nigeria)</description>
             <languageList>
@@ -5678,7 +5684,7 @@
     <layout>
       <configItem>
         <name>et</name>
-        
+
         <shortDescription>am</shortDescription>
         <description>Amharic</description>
         <languageList>
@@ -5690,7 +5696,7 @@
     <layout>
       <configItem>
         <name>sn</name>
-        
+
         <shortDescription>wo</shortDescription>
         <description>Wolof</description>
         <languageList>
@@ -5702,7 +5708,7 @@
     <layout>
       <configItem>
         <name>brai</name>
-        
+
         <shortDescription>brl</shortDescription>
         <description>Braille</description>
       </configItem>
@@ -5724,7 +5730,7 @@
     <layout>
       <configItem>
         <name>tm</name>
-        
+
         <shortDescription>tk</shortDescription>
         <description>Turkmen</description>
         <languageList>
@@ -5743,7 +5749,7 @@
     <layout>
       <configItem>
         <name>ml</name>
-        
+
         <shortDescription>bm</shortDescription>
         <description>Bambara</description>
         <languageList>
@@ -5754,7 +5760,7 @@
         <variant>
           <configItem>
             <name>fr-oss</name>
-            
+
             <shortDescription>fr</shortDescription>
             <description>French (Mali, alt.)</description>
             <languageList>
@@ -5765,7 +5771,7 @@
         <variant>
           <configItem>
             <name>us-mac</name>
-            
+
             <shortDescription>en</shortDescription>
             <description>English (Mali, US, Macintosh)</description>
             <languageList>
@@ -5776,7 +5782,7 @@
         <variant>
           <configItem>
             <name>us-intl</name>
-            
+
             <shortDescription>en</shortDescription>
             <description>English (Mali, US, intl.)</description>
             <languageList>
@@ -5789,7 +5795,7 @@
     <layout>
       <configItem>
         <name>tz</name>
-        
+
         <shortDescription>sw</shortDescription>
         <description>Swahili (Tanzania)</description>
         <languageList>
@@ -5827,7 +5833,7 @@
     <layout>
       <configItem>
         <name>ke</name>
-        
+
         <shortDescription>sw</shortDescription>
         <description>Swahili (Kenya)</description>
         <languageList>
@@ -5838,7 +5844,7 @@
         <variant>
           <configItem>
             <name>kik</name>
-            
+
             <shortDescription>ki</shortDescription>
             <description>Kikuyu</description>
             <languageList>
@@ -5851,7 +5857,7 @@
     <layout>
       <configItem>
         <name>bw</name>
-        
+
         <shortDescription>tn</shortDescription>
         <description>Tswana</description>
         <languageList>
@@ -5862,7 +5868,7 @@
     <layout>
       <configItem>
         <name>ph</name>
-        
+
         <shortDescription>ph</shortDescription>
         <description>Filipino</description>
         <languageList>
@@ -6062,7 +6068,7 @@
   </layoutList>
   <optionList>
     <group allowMultipleSelection="true">
-      
+
       <configItem>
         <name>grp</name>
         <description>Switching to another layout</description>
@@ -6291,7 +6297,7 @@
       </option>
     </group>
     <group allowMultipleSelection="true">
-      
+
       <configItem>
         <name>lv3</name>
         <description>Key to choose the 3rd level</description>
@@ -6400,7 +6406,7 @@
       </option>
     </group>
     <group allowMultipleSelection="true">
-      
+
       <configItem>
         <name>ctrl</name>
         <description>Ctrl position</description>
@@ -6472,7 +6478,7 @@
       </option>
     </group>
     <group allowMultipleSelection="true">
-      
+
       <configItem>
         <name>grp_led</name>
         <description>Use keyboard LED to show alternative layout</description>
@@ -6497,7 +6503,7 @@
       </option>
     </group>
     <group allowMultipleSelection="false">
-      
+
       <configItem>
         <name>keypad</name>
         <description>Layout of numeric keypad</description>
@@ -6551,16 +6557,16 @@
        </configItem>
       </option>
     </group>
-    
+
     <group allowMultipleSelection="false">
-      
+
       <configItem>
         <name>kpdl</name>
         <description>Numeric keypad Delete behavior</description>
       </configItem>
       <option>
         <configItem>
-          
+
           <name>kpdl:dot</name>
           <description>Legacy key with dot</description>
        </configItem>
@@ -6568,7 +6574,7 @@
       <option>
         <configItem>
           <name>kpdl:comma</name>
-          
+
           <description>Legacy key with comma</description>
        </configItem>
       </option>
@@ -6599,7 +6605,7 @@
       <option>
         <configItem>
           <name>kpdl:kposs</name>
-          
+
           <description>Four-level key with abstract separators</description>
        </configItem>
       </option>
@@ -6611,7 +6617,7 @@
       </option>
     </group>
     <group allowMultipleSelection="false">
-      
+
       <configItem>
         <name>caps</name>
         <description>Caps Lock behavior</description>
@@ -6708,7 +6714,7 @@
       </option>
     </group>
     <group allowMultipleSelection="false">
-      
+
       <configItem>
         <name>altwin</name>
         <description>Alt/Win key behavior</description>
@@ -6787,7 +6793,7 @@
       </option>
     </group>
     <group allowMultipleSelection="true">
-      
+
       <configItem>
         <name>Compose key</name>
         <description>Position of Compose key</description>
@@ -6992,7 +6998,7 @@
       </option>
     </group>
     <group allowMultipleSelection="true">
-      
+
       <configItem>
         <name>currencysign</name>
         <description>Adding currency signs to certain keys</description>
@@ -7060,7 +7066,7 @@
 
     </group>
     <group allowMultipleSelection="false">
-      
+
       <configItem>
         <name>nbsp</name>
         <description>Using space key to input non-breaking space</description>
