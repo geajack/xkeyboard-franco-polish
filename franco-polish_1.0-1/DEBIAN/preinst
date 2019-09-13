@@ -1,0 +1,2 @@
+dpkg-divert --package franco-polish --add --rename --divert /usr/share/X11/xkb/rules/evdev.xml.backup /usr/share/X11/xkb/rules/evdev.xml
+dpkg-divert --package franco-polish --add --rename --divert /usr/share/X11/xkb/symbols/pl.backup /usr/share/X11/xkb/symbols/pl

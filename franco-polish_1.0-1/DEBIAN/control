@@ -1,0 +1,7 @@
+Package: franco-polish
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Jack <babybishops@gmail.com>
+Description: Franco-Polish keyboard layout
